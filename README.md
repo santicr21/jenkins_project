@@ -15,39 +15,15 @@ CI &amp; CD Practice, Jenkins
 10. Once you are configuring the project, click on `This project is parametized`.
 11. Click on `String parameter`, as a name, enter `MY_NAME`, you can enter the default value that you want.
 12. Type the follwing in pipeline script:
-`pipeline {
-    agent any
-    
-    tools {
-        jdk 'JDK20'
-    }
 
-    stages {
-        stage('Cloning project') {
-            steps {
-                deleteDir()
-                git branch: 'main', url: 'https://github.com/santicr21/jenkins_project.git'
-            }
-        }
-        stage('Compiling') {
-            steps {
-                echo 'Compiling the application'
-                bat 'javac HelloEnv.java'
-            }
-        }
-        stage('Executing') {
-            steps {
-                echo 'Executing the application'
-                bat 'java HelloEnv.java'
-            }
-        }
-    }
-}`
+![Imagen5](results/img5.png)
+
 13. Click on `Save`.
 14. Click on `Build with parameters option`.
 15. Click on `Build`.
 
 Evidence:
+
 First change:
 
 ![Imagen1](results/img1.png)
