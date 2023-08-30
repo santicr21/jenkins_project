@@ -48,7 +48,9 @@ CI &amp; CD Practice, Jenkins
 15. Click on `Build`.
 
 Evidence:
+First change:
 ![Imagen1](results/img1.png)
 ![Imagen2](results/img2.png)
 ![Imagen3](results/img3.png)
+Second change:
 ![Imagen4](results/img4.png)
