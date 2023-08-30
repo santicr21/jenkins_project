@@ -48,4 +48,4 @@ CI &amp; CD Practice, Jenkins
 15. Click on `Build`.
 
 Evidence:
-![Image Alt Text]("results/img1.png")
+![Image Alt Text](results/img1.png)
