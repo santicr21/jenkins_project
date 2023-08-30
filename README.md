@@ -24,6 +24,12 @@ CI &amp; CD Practice, Jenkins
 
 Evidence:
 
+Stage Views:
+
+![Imagen6](results/img6.png)
+
+Logs:
+
 First change:
 
 ![Imagen1](results/img1.png)
