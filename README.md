@@ -48,4 +48,7 @@ CI &amp; CD Practice, Jenkins
 15. Click on `Build`.
 
 Evidence:
-![Image Alt Text](results/img1.png)
+![Imagen1](results/img1.png)
+![Imagen2](results/img2.png)
+![Imagen3](results/img3.png)
+![Imagen4](results/img4.png)
